@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Samires!
+## Oie!! 👋, Eu sou Samires!
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -30,6 +30,3 @@
 
 ---
 
-### 📈 Meus commits
-<!-- GitHub Snake animation -->
-![Snake animation](https://github.com/SEU_USUARIO/github-snake-animation/blob/output/github-contribution-grid-snake.svg)
