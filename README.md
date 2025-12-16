@@ -2,7 +2,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eusam04&show_icons=true&theme=tokyonight" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=eusam04&show_icons=true&theme=github_dark" /> 
 </div>
 
 ---
