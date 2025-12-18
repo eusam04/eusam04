@@ -1,4 +1,10 @@
-## Oie!! 👋, Eu sou Samires!
+## Oi!! 👋, Eu sou Samires!
+
+### Sobre mim
+Olá! Eu sou Samires do Carmo, estudante de Sistemas de Informação.  
+Tenho paixão por programação e gosto de trabalhar com Python, Java, HTML, CSS e JavaScript.
+
+---
 
 ### 📊 GitHub Stats
 <div align="center">
