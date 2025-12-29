@@ -8,7 +8,7 @@ Tenho paixão por programação e gosto de trabalhar com Python, Java, HTML, CSS
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eusam04&show_icons=true&theme=github_dark" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=eusam04&show_icons=true&theme=tokyonight" /> 
 </div>
 
 ---
