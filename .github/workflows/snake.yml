@@ -13,8 +13,11 @@ jobs:
         with:
           github_user_name: eusam04
           outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-default.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-purple.svg?palette=github-dark&color_snake=#a855f7
+            dist/snake-blue.svg?palette=github-dark&color_snake=#38bdf8
+            dist/snake-pink.svg?palette=github-dark&color_snake=#ec4899
 
 
       - uses: crazy-max/ghaction-github-pages@v4
