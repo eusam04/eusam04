@@ -35,5 +35,6 @@ Tenho paixão por programação e gosto de trabalhar com Python, Java, HTML, CSS
 </div>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/eusam04/eusam04/output/snake-blue.svg)
+![Snake animation](https://raw.githubusercontent.com/eusam04/eusam04/output/snake-purple.svg)
+
 
