@@ -15,8 +15,6 @@ Tenho paixão por programação e gosto de trabalhar com Python, Java, HTML, CSS
 
 </div>
 
-
-
 ### 📫 Contatos
 
 <div align="center"> 
