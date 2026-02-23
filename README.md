@@ -23,6 +23,6 @@ Tenho paixão por programação e gosto de trabalhar com Python, Java, HTML, CSS
 </div>
 
 ---
-![Pacman animation](https://raw.githubusercontent.com/eusam04/eusam04/output/pacman.gif)
+![Pacman animation](https://raw.githubusercontent.com/eusam04/eusam04/output/pacman.gif?v=2)
 
 
