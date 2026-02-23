@@ -23,6 +23,11 @@ Tenho paixão por programação e gosto de trabalhar com Python, Java, HTML, CSS
 </div>
 
 ---
-![Pacman animation](https://raw.githubusercontent.com/eusam04/eusam04/output/pacman.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eusam04/eusam04/output/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eusam04/eusam04/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eusam04/eusam04/output/pacman.svg">
+</picture>
 
 
