@@ -1,13 +1,18 @@
 ---
 ## Oi!! 👋 Eu sou a Samires 💜  
 
-🎓 Estudante de **Sistemas de Informação**  
+🎓 Estudante de **Sistemas de Informação**
+
+💻 Desenvolvedora Full Stack em formação
+
+🚀 Construindo aplicações web com **React, Node.js, Java, Python, JavaScript e MySQL**
+
+📚 Buscando sempre aprender, evoluir e desenvolver soluções com boas práticas
+
 💻 Apaixonada por programação e tecnologia  
-🚀 Trabalhando com **Python, Java, HTML, CSS e JavaScript**  
-✨ Sempre aprendendo algo novo!
+---
 
-
-### 📊 GitHub Activity & 🚀 Skills
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eusam04&theme=tokyonight" />
