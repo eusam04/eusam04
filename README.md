@@ -10,6 +10,8 @@
 📚 Buscando sempre aprender, evoluir e desenvolver soluções com boas práticas
 
 💻 Apaixonada por programação e tecnologia  
+
+
 ---
 
 ### 📊 GitHub Activity
