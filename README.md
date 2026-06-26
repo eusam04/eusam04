@@ -56,12 +56,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
+    <source
+      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/eusam04/eusam04/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/eusam04/eusam04/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/eusam04/eusam04/output/pacman-contribution-graph.svg">
+    <img
+      src="https://raw.githubusercontent.com/eusam04/eusam04/output/pacman-contribution-graph.svg"
+      alt="Pac-Man Contribution Graph">
   </picture>
 </p>
 
