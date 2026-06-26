@@ -4,19 +4,6 @@
 
 Atualmente desenvolvo aplicações web com **React, Node.js, Java, Python, JavaScript e MySQL**, buscando sempre aprender novas tecnologias e criar soluções bem estruturadas para problemas reais.
 
-**Fale comigo:**
-
-<p align="left">
-  <a href="mailto:samiressantos.carmo@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-4B5563?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/samires-santos-b33067309">
-    <img src="https://img.shields.io/badge/LinkedIn-4B5563?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
 ---
 
 ### 📊 GitHub Activity
@@ -60,6 +47,8 @@ Atualmente desenvolvo aplicações web com **React, Node.js, Java, Python, JavaS
 </p>
 
 ---
+
+
 
 
 
