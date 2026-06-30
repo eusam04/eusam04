@@ -1,17 +1,12 @@
-# Oi, eu sou Samires 👋
-
-💜 Estudante de **Sistemas de Informação** e desenvolvedora Full Stack em formação.
-
-Atualmente desenvolvo aplicações web utilizando **React, Node.js, Java, Python, JavaScript e MySQL**, sempre buscando aprender novas tecnologias e criar soluções bem estruturadas.
-
-<p align="left">
-  <a href="mailto:samiressantos.carmo@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-4B5563?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/samires-santos-b33067309">
-    <img src="https://img.shields.io/badge/LinkedIn-4B5563?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%" />
 </p>
+
+💜 Estudante de **Sistemas de Informação** apaixonada por desenvolvimento de software.
+
+🚀 Construindo aplicações web com **React, Node.js, Java, Python, JavaScript e MySQL**.
+
+
 
 ---
 
