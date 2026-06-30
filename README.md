@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img height="190em" src="https://streak-stats.demolab.com?user=eusam04&theme=nord&hide_border=true" />
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,vite,nodejs,express,mysql,git,github,html,css&perline=13" />
