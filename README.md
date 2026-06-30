@@ -9,8 +9,8 @@
 ## GitHub Activity
 
 <p align="center">
-  <img height="200em" src="https://streak-stats.demolab.com?user=eusam04&theme=tokyonight&hide_border=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusam04&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=eusam04&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusam04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
