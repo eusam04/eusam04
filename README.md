@@ -39,16 +39,5 @@
 ---
 
 <p align="center">
-  <a href="mailto:samiressantos.carmo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-444444?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/samires-santos-b33067309">
-    <img src="https://img.shields.io/badge/LinkedIn-444444?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
 ✨ <i>Always learning. Always building.</i> ✨
 </p>
