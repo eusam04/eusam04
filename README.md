@@ -24,5 +24,5 @@
 ---
 
 <p align="center">
-✨ <i>Always learning. Always building.</i> ✨
+ <i>Always learning. Always building.</i> 
 </p>
