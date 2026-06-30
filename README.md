@@ -1,4 +1,4 @@
-# Oi, eu sou a Samires 👋
+# Oi, eu sou Samires 👋
 
 💜 Estudante de **Sistemas de Informação** e desenvolvedora Full Stack em formação.
 
