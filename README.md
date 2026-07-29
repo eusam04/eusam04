@@ -1,8 +1,12 @@
-# Oi! 👋 Eu sou a Samires
+# 👋 Samires Santos
 
-🎓 Sistemas de Informação | 💻 Full Stack em formação
+> Sistemas de Informação · Full Stack Developer em formação
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,vite,nodejs,express,mysql,git,github,html,css&perline=13" />
+</p>
+
 ---
-
 ## GitHub Activity
 
 <p align="center">
@@ -14,15 +18,6 @@
 </p>
 
 ---
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,vite,nodejs,express,mysql,git,github,html,css&perline=13" />
-</p>
-
----
-
 <p align="center">
  <i>Always learning. Always building.</i> 
 </p>
