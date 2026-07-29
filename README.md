@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="./assets/banner-4.png" alt="Banner Samires" width="100%" />
-</p>
+# Oi! 👋 Eu sou a Samires
 
-🚀 Atualmente desenvolvo aplicações web com **React, Node.js, Java, Python, JavaScript e MySQL**, buscando sempre aprender novas tecnologias e criar soluções bem estruturadas para problemas reais.
-
+🎓 Sistemas de Informação | 💻 Full Stack em formação
 ---
 
 ## GitHub Activity
