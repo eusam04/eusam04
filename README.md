@@ -10,11 +10,8 @@
 ## GitHub Activity
 
 <p align="center">
-  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eusam04&theme=tokyonight" />
-  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eusam04&theme=tokyonight" />
-</p>
-<p align="center">
-  <img width="76%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eusam04&theme=tokyonight" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eusam04&theme=tokyonight" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eusam04&theme=tokyonight" />
 </p>
 
 ---
