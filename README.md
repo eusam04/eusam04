@@ -1,6 +1,6 @@
 # 👋 Samires Santos
 
-> Sistemas de Informação (SI)
+> Sistemas de Informação
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,react,vite,nodejs,express,mysql,git,github,html,css&perline=13" />
