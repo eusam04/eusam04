@@ -3,7 +3,7 @@
 > Sistemas de Informação
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,vite,nodejs,express,mysql,git,github,html,css&perline=13" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,vite,nodejs,express,mysql,mongodb,git,github,html,css&perline=14" />
 </p>
 
 ---
